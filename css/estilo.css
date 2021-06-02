@@ -1,0 +1,42 @@
+/* Classes */
+.inicio_menu{
+	display: flex;
+}
+.r_items{
+	text-align:center; !important
+}
+.menu {
+	display: table;	
+	position: absolute;
+	top:0;	
+	left: -200px;
+	margin: auto 0;
+	margin-left: 50% ;
+	width: 40%;		
+}
+.rodape{
+	display: table;
+	margin: auto;
+	background: #66a3ff;
+	padding: 5px;
+	position: absolute;
+	width: 100%;
+}
+.altura_topo{
+	position: absolute;
+	top:5%;
+	margin-left: 10% ;
+	box-align: center;
+	width: 80%;
+}
+/*São as TAGs */
+a{
+	margin-left: 2%;
+}
+h1{
+	top: 100%;
+	box-align: center;
+}
+p{
+	box-align: center;
+}
